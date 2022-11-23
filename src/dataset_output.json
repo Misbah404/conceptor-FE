@@ -1,0 +1,32 @@
+[
+    {
+        "question-one": ["none"],
+        "recap-one": ["none"],
+        "recap-two": ["none"],
+        "recap-three": ["none"],
+        "recap-four": ["none"],
+        "recap-five": ["none"],
+        "sale-one": ["none"],
+        "sale-two": ["none"],
+        "sale-three": ["none"],
+        "sale-four": ["none"],
+        "sale-five": ["none"]
+    },
+    {
+        "NAICS-Master-Dropdown": ["none"],
+        "NAICS-Sub-Dropdown": ["none"],
+        "speciality_input": ["none"],
+        "description_input": ["none"],
+        "mission_input": ["none"],
+        "vision_input": ["none"],
+        "descriptor_input": ["none"],
+        "supply_chain_dropdown": ["none"],
+        "area_of_operations_dropdown": ["none"],
+        "product_input": ["none"],
+        "culture_and_values_input": ["none"],
+        "workplace_culture_dropdown": ["none"]
+    },
+    {
+        "ebitda_input": ["none"]
+    }
+]

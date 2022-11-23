@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11a4ca7a.chunk.css",
+    "main.js": "/static/js/main.ee257b31.chunk.js",
+    "main.js.map": "/static/js/main.ee257b31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.95f06973.js",
+    "runtime-main.js.map": "/static/js/runtime-main.95f06973.js.map",
+    "static/css/2.a3961acb.chunk.css": "/static/css/2.a3961acb.chunk.css",
+    "static/js/2.27c6edd6.chunk.js": "/static/js/2.27c6edd6.chunk.js",
+    "static/js/2.27c6edd6.chunk.js.map": "/static/js/2.27c6edd6.chunk.js.map",
+    "static/js/3.449426af.chunk.js": "/static/js/3.449426af.chunk.js",
+    "static/js/3.449426af.chunk.js.map": "/static/js/3.449426af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a3961acb.chunk.css.map": "/static/css/2.a3961acb.chunk.css.map",
+    "static/css/main.11a4ca7a.chunk.css.map": "/static/css/main.11a4ca7a.chunk.css.map",
+    "static/js/2.27c6edd6.chunk.js.LICENSE.txt": "/static/js/2.27c6edd6.chunk.js.LICENSE.txt",
+    "static/media/Motion.mp4": "/static/media/Motion.6bc6bf47.mp4",
+    "static/media/global.scss": "/static/media/bg-lines-2.4a12d87d.png",
+    "static/media/ai-page.png": "/static/media/ai-page.93f19737.png",
+    "static/media/ai-rec.png": "/static/media/ai-rec.11d70780.png",
+    "static/media/augmented-example.png": "/static/media/augmented-example.4855911d.png",
+    "static/media/bg.png": "/static/media/bg.83d1692d.png",
+    "static/media/leads-homepage.fe7a1a19.png": "/static/media/leads-homepage.fe7a1a19.png",
+    "static/media/leads-page.png": "/static/media/leads-page.030dcb5d.png",
+    "static/media/loader.gif": "/static/media/loader.a23c925c.gif",
+    "static/media/logo-landing.png": "/static/media/logo-landing.3844734a.png",
+    "static/media/logo.png": "/static/media/logo.39c1feac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f06973.js",
+    "static/css/2.a3961acb.chunk.css",
+    "static/js/2.27c6edd6.chunk.js",
+    "static/css/main.11a4ca7a.chunk.css",
+    "static/js/main.ee257b31.chunk.js"
+  ]
+}
